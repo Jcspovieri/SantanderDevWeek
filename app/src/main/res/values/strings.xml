@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SantanderDevWeek</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Menu 2</string>
+    <string name="menu_3">menu_3</string>
+    <string name="ola_jo_o">Ola, João</string>
+    <string name="ag_0314">AG 0314</string>
+    <string name="saldo_disponivel">Saldo Disponivel</string>
+    <string name="r_1200_00">R$ 1200,00</string>
+    <string name="_1_200_00">1.200,00</string>
+    <string name="r_1_200_00">R$ 1.200,00</string>
+    <string name="saldo_limite">Saldo + Limite</string>
+    <string name="r_2_350_00">R$ 2.350,00</string>
+    <string name="ver_extrato">Ver Extrato</string>
+    <string name="pagar">pagar</string>
+    <string name="cart_o_final">Cartão final</string>
+    <string name="trasferir">Trasferir</string>
+    <string name="recarregar">Recarregar</string>
+</resources>
